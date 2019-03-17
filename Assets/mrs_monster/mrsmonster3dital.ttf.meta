@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 2e8ba8fa611d54a7999dedf2e729bd50
+timeCreated: 1508167763
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Mrs. Monster 3D Italic
+  fontNames:
+  - Mrs. Monster 3D Italic
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

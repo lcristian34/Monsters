@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 7f0564c16ba3e4e3db4414a299b351e0
+timeCreated: 1508167763
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Mrs. Monster Outline Italic
+  fontNames:
+  - Mrs. Monster Outline Italic
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
