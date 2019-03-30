@@ -11,9 +11,9 @@ The app displays diferrent mythical creatures, it uses only one game screen in u
 
 ## Installation
 Android:
-1 Download apk file
-2 Enable unknown apps in settings
-3 install the apk
+- 1 Download apk file
+- 2 Enable unknown apps in settings
+- 3 install the apk
 
 ## Development setup
 Dawnload the github file and edit the projet using unity.
