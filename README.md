@@ -1,7 +1,7 @@
 # Monsters
 > Concept application that displays a homescreen and button links to different screens.
 
-The website only is for design purposes, the interface does not work.
+The app displays diferrent mythical creatures, it uses only one game screen in unity and each creature is contained in a different canvas, The app navigates as the camera switches focus on each canvas.
 
 ![](header.png)
 
